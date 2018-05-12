@@ -36,6 +36,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: This e-book only contains the front matter. The individual plays are
   linked to from this book's table of contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26660#Plays--Complete-Edition-Including-the-Posthumous-Plays
 gutenberg_issued: '2008-09-20'
 gutenberg_type: Text
 identifiers:
